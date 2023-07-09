@@ -1,5 +1,19 @@
 Company Name,Brand,Website,Domain
-ActBlue, Crowdfunding Platform,https://secure.actblue.com/,@secure.actblue.com
+ActBlue, Brand, www.actblue.com ,@actblue.com
+Fission, Brand, www.fissionstrategy.com ,@fissionstrategy.com
+Patriot Majority, Brand, www.patriotmajority.org ,@patriotmajority.org
+EMILY’s List, Brand, www.emilyslist.org,@emilyslist.org
+MoveOn.Org, Brand, www.moveon.org ,@moveon.org
+Progressive Donations, Brand, www.progressivedonations.com,@progressivedonations.com
+Democracy Engines, Brand, www.democracyengines.com,@democracyengines.com
+Paket, Brand, www.paketcampaigns.com,@paketcampaigns.com
+Liberal Political Network, Brand, www.liberalpoliticalnetwork.org,@liberalpoliticalnetwork.org
+Big Tent, Brand, www.bigtentforchange.org,@bigtentforchange.org
+FundRazr, Brand, www.fundrazr.com,@fundrazr.com
+MyCause, Brand, www.mycause.com,@mycause.com
+Forward Majority, Brand, www.forwardmajority.org,@forwardmajority.org
+Give to Democrats, Brand, www.givetodemocrats.org,@givetodemocrats.org
+Revolution Messaging, Brand, www.revolutionmessaging.com,@revolutionmessaging.com
 Democracy Engine, Crowdsourcing Platform,https://www.democracyengine.com/,@democracyengine.com
 Swell, Crowdfunded Advocacy, https://getswell.org/,@getswell.org
 Crowdpac, Political Crowdfunding Platform, https://www.crowdpac.com/,@crowdpac.com
@@ -12,3 +26,4 @@ Give America, Donations Networks, https://www.giveamerica.org/,@giveamerica.org
 BlueAmerica, Progressive Action Network, http://www.blueamerica.org/,@blueamerica.org
 Democracy Pushes, Donation Network, https://www.democracypushes.org/,@democracypushes.org
 Rally, Platform for Making Donations, https://rally.org/,@rally.org
+"""","""colorizedLines"":[""Company Name",Brand,Website
